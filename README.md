@@ -4,6 +4,8 @@ Ein Claude-Skill, der deine SDRs (und dich selbst) im Kaltakquise-Telefonat trai
 
 Gebaut von Chris Erler für das MyEO Experience Share am 13.10.2026. Frei nutzbar.
 
+Wie das ganze System dahinter gebaut ist (Board, Scoring über Nacht, Tagesablauf, Recruiting, Kosten), steht in [`SETUP.md`](SETUP.md).
+
 ## Was drin ist
 
 - Rollenspiel mit vier Personas: skeptischer Geschäftsführer, ausweichende Fachbereichsleitung, preissensibler Startup-CEO, Gatekeeper
